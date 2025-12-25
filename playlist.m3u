@@ -1,12 +1,11 @@
 m3u
 
 #EXTM3U
+#EXTINF:-1,Brega%20-%20Bem%20Querer
+http://som.brasilplaygames.com.br/som/Bem%20querer.mp3
 
-#EXTINF:-1,🎵 NOME DA MÚSICA 1
-https://iagoh-eng.github.io/radio/musicas/MUSICA1.mp3
+#EXTINF:-1,Brega%20-%20Saudade
+http://seusite.com/musicas/saudade.mp3
 
-#EXTINF:-1,🎵 NOME DA MÚSICA 2
-https://iagoh-eng.github.io/radio/musicas/MUSICA2.mp3
-
-#EXTINF:-1,🎵 NOME DA MÚSICA 3
-https://iagoh-eng.github.io/radio/musicas/MUSICA3.mp3
+#EXTINF:-1,Brega%20-%20Coração%20Partido
+http://seusite.com/musicas/coracao.mp3
